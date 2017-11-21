@@ -32,8 +32,6 @@ function draw() {
       text("Talk to me!",250,vheight/2);
    } 
     
-     textSize(32);
-      text(vol,50,50)
       
   for (var i=0; i<vwidth; i+=10) {
       for (var j=0; j<vheight; j+=10) {
